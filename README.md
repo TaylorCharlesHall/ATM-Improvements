@@ -3,7 +3,7 @@
 # ATM-Improvements
 Making use of React to keep track of account balance with the options of deposit or withdrawal.
 ### Details
-Makes use of React and form by updating state.
+Use of form and select tag updating state and other hooks.
 ### Potential Improvements
 Allow user to make a variety of transactions and update interface to include cents.
 ### How to Run
