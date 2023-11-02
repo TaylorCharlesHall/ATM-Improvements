@@ -1,0 +1,37 @@
+
+
+select {
+  display: block;
+  margin-bottom: 20px;
+}
+
+body {
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h2 {
+
+background-color: lightsteelblue;
+border: 2px solid black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+form {
+font-family: 'Times New Roman', Times, sans-serif;
+margin-left: 20px;
+margin-top: 100px;
+
+}
+
+#deposit-selection {
+
+    background-color: lightgreen;
+    
+    }
+    
+    #cashback-selection {
+    
+    background-color: red;
+    }
