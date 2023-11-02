@@ -1,4 +1,4 @@
-<img src="atm.jpg" width="100" />
+<img src="atm.jpeg" width="100" />
 
 # ATM-Improvements
 Making use of React to keep track of account balance with the options of deposit or withdrawal.
